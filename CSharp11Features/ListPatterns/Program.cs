@@ -13,4 +13,4 @@ int[] numbers2= { 1, 2, 3, 4, 5 };
 var pattern5 = numbers is [1, 2, ..]; // true
 var pattern5 = numbers is [.., 4, 5]; // true
 var pattern5 = numbers is [1, .., 5]; // true
-
+ 
